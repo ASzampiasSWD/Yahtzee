@@ -1,0 +1,7 @@
+c:\users\amanda\source\repos\slnYahtzee\prjYahtzee\bin\Debug\prjYahtzee.exe.config
+c:\users\amanda\source\repos\slnYahtzee\prjYahtzee\bin\Debug\prjYahtzee.exe
+c:\users\amanda\source\repos\slnYahtzee\prjYahtzee\bin\Debug\prjYahtzee.pdb
+c:\users\amanda\source\repos\slnYahtzee\prjYahtzee\obj\Debug\prjYahtzee.csprojResolveAssemblyReference.cache
+c:\users\amanda\source\repos\slnYahtzee\prjYahtzee\obj\Debug\prjYahtzee.csproj.CoreCompileInputs.cache
+c:\users\amanda\source\repos\slnYahtzee\prjYahtzee\obj\Debug\prjYahtzee.exe
+c:\users\amanda\source\repos\slnYahtzee\prjYahtzee\obj\Debug\prjYahtzee.pdb
